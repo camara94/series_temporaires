@@ -26,3 +26,14 @@ Ensemble d'observation d'une variable statistique économique faite
 
 * modèle additif Y = T + S + R
 * modèle multiplicatif Y = T * S * R
+
+## Comment savoir le type de modèle
+
+* **Le modèle additif** correspond au cas d'un movement saisonnier d'amplitude constante dans le temps.
+  
+
+![image 2](images/2.png)
+
+* **Le modèle multiplicatif** correspond au cas d'un mouvement saisonnier d'amplitude croissante ou decroissante dans le temps.
+
+![image 3](images/3.png)
