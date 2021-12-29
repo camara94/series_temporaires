@@ -64,3 +64,8 @@ coeficient saisonnier = y/yi
    mb = ( (y<sub>n-2</sub>)/2 + y<sub>n-1</sub> + y<sub>n</sub> + y<sub>n+1</sub> + 
    (y<sub>n+2</sub>)/2 ) / 4
 </code>
+
+## Ressources
+
+* [http://serge.mehl.free.fr/anx/meth_carr.html](http://serge.mehl.free.fr/anx/meth_carr.html)
+* [https://www.youtube.com/watch?v=WpCs1vKRKu4](https://www.youtube.com/watch?v=WpCs1vKRKu4)
