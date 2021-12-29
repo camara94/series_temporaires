@@ -37,3 +37,8 @@ Ensemble d'observation d'une variable statistique économique faite
 * **Le modèle multiplicatif** correspond au cas d'un mouvement saisonnier d'amplitude croissante ou decroissante dans le temps.
 
 ![image 3](images/3.png)
+
+## Calcule de l'équation de la droite
+La droite de régression de y en x, également appelée 1ère droite de régression d'équation, y = ax + b peut être obtenu par le programme (système 2x2). Le coefficient directeur a et l'ordonnée à l'origine b correspondent à :
+
+![image 4](images/4.png)
