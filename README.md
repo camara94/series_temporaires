@@ -42,3 +42,10 @@ Ensemble d'observation d'une variable statistique économique faite
 La droite de régression de y en x, également appelée 1ère droite de régression d'équation, y = ax + b peut être obtenu par le programme (système 2x2). Le coefficient directeur a et l'ordonnée à l'origine b correspondent à :
 
 ![image 4](images/4.png)
+
+## Les valeurs du trend 
+ce sont les y observés sur les yi calculés
+* Modèle Multiplicatif
+coeficient saisonnier = y/yi
+* Modèle Additionnelle 
+  coeficient saisonnier = y - yi
