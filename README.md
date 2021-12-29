@@ -49,3 +49,11 @@ ce sont les y observés sur les yi calculés
 coeficient saisonnier = y/yi
 * Modèle Additionnelle 
   coeficient saisonnier = y - yi
+
+## Prevision pour le modèle 
+
+* multiplicatif
+<code>pred = (coef_a*Rang + constante_b)*coef_saisonnier</code>
+
+* additionnel
+  <code>pred = (coef_a*Rang + constante_b) - coef_saisonnier</code>
