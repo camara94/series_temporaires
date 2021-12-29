@@ -21,3 +21,8 @@ Ensemble d'observation d'une variable statistique économique faite
 * **Composante Saisonnière :** c'est un phènomène qui se répète à intervalles de temps réguliers(périodiques)
 * **Composante Accidentelle :** c'est un phénomène qui se produit très rarement(grève, condition météorologique, ...)
 * **Composante residuelle :** c'est un phènomène due à des fluctuations irrégulières, en général(aléatoire), on parle aussi d'aléas.
+
+## Type de modèle
+
+* modèle additif Y = T + S + R
+* modèle multiplicatif Y = T * S * R
