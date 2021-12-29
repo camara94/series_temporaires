@@ -57,3 +57,10 @@ coeficient saisonnier = y/yi
 
 * additionnel
   <code>pred = (coef_a*Rang + constante_b) - coef_saisonnier</code>
+
+## Moyenne Mobile
+
+<code>
+   mb = ( (y<sub>n-2</sub>)/2 + y<sub>n-1</sub> + y<sub>n</sub> + y<sub>n+1</sub> + 
+   (y<sub>n+2</sub>)/2 ) / 4
+</code>
